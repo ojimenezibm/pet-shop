@@ -37,10 +37,12 @@ public class PetShop {
         }*/
 
         Gato gato = new Gato();
+        Perro perro = new Perro();
 
         gato.Saludar();
 
         imprimirSonido(gato);
+        imprimirSonido(perro);
 
     }
 
