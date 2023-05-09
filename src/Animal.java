@@ -15,7 +15,7 @@ public class Animal {
     public Animal(String tipo,String edad){
         System.out.println("Constuyendo Animal de tipo "+ tipo + " y tiene "+edad);
     }
-
+// puro commetantrio
 
 
     private String name;
